@@ -3,7 +3,9 @@ Expanda o exercício anterior adicionando o atributo `tipo_combustivel` na class
 `cilindradas` na classe `Moto`. Sobrescreva o método `informacoes()` para exibir detalhes
 específicos de cada classe filha.
 '''
-
+'''
+HERANCA: PERMITE QUE UMA CLASSE (filha) HERDE ATRIBUTOS E MÉTODOS DE OUTRA CLASSE (superclasse)
+'''
 
 class Veiculo:
     
