@@ -2,7 +2,9 @@
 Crie uma classe `ContaBancaria` com atributos privados `saldo` e `titular`. Implemente métodos
 para depositar, sacar e consultar o saldo. Não permita saques com valor superior ao saldo.
 '''
-
+'''
+ENCAPSULAMENTO: GARANTE PROTEÇÃO DE DADOS E MANIPULAÇÃO CORRETA DOS MESMOS
+'''
 class ContaBancaria:
 
     def __init__(self,titular):
